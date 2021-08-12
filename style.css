@@ -1,0 +1,26 @@
+h1{
+    color:black;
+}
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+.line{
+
+    display: flex;
+    justify-content: center;
+}
+.grid{ 
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+body{
+    background-color:blanchedalmond;
+}
